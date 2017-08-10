@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestScrollingView</string>
+
+    <string name="hockeyPlayerImageContentDescription">The image for the hockey player</string>
+</resources>
